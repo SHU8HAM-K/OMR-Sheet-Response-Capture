@@ -22,7 +22,7 @@ The Optical Mark Recognition (OMR) Sheet Response Capture project is a Python ap
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/OMR-Sheet-Response-Capture.git
+    https://github.com/SHU8HAM-K/OMR-Sheet-Response-Capture.git
     cd OMR-Sheet-Response-Capture
     ```
 
